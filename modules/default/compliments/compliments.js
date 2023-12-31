@@ -8,10 +8,10 @@ Module.register("compliments", {
 	// Module config defaults.
 	defaults: {
 		compliments: {
-			anytime: ["Hey there sexy!"],
-			morning: ["Good morning, handsome!", "Enjoy your day!", "How was your sleep?"],
-			afternoon: ["Hello, beauty!", "You look sexy!", "Looking good today!"],
-			evening: ["Wow, you look hot!", "You look nice!", "Hi, sexy!"],
+			anytime: ["Welcome to Emotional Intelligent Mirror (EIn Mirror)\n Group Members : Muhammad Jabir Ali (20-CP-18)\n Aqsa Sher (20-CP-29)\n Atiqa Qayyum (20-CP-34)"],
+			morning: ["Welcome to Emotional Intelligent Mirror (EIn Mirror)\n Group Members : Muhammad Jabir Ali (20-CP-18)\n Aqsa Sher (20-CP-29)\n Atiqa Qayyum (20-CP-34)"],
+			afternoon: ["Welcome to Emotional Intelligent Mirror (EIn Mirror)\n Group Members : Muhammad Jabir Ali (20-CP-18)\n Aqsa Sher (20-CP-29)\n Atiqa Qayyum (20-CP-34)"],
+			evening: ["Welcome to Emotional Intelligent Mirror (EIn Mirror)\n Group Members : Muhammad Jabir Ali (20-CP-18)\n Aqsa Sher (20-CP-29)\n Atiqa Qayyum (20-CP-34)"],
 			"....-01-01": ["Happy new year!"]
 		},
 		updateInterval: 30000,
