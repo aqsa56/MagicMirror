@@ -9,9 +9,10 @@ Module.register("newsfeed", {
 	defaults: {
 		feeds: [
 			{
-				title: "New York Times",
-				url: "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
-				encoding: "UTF-8" //ISO-8859-1
+				title: "Geo News",
+				url: "https://www.geo.tv/rss",  // Use this URL or the one below
+				// url: "https://feeds.feedburner.com/geo/GiKR",  // Uncomment this line if you prefer this URL
+				encoding: "UTF-8"
 			}
 		],
 		showAsList: false,
